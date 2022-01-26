@@ -1,0 +1,52 @@
+body{
+    background-image:url("deep\ jungle.jpg");
+}
+h1{
+    text-align: center;
+    color:darkblue;
+}
+#kick{
+    width: 90px;
+    height: 40px;
+    background: darkred;
+}
+#punch{
+    width: 90px;
+    height: 40px;
+    background: darksalmon;
+}
+#myDesign{
+    background-image: url("bck\ img.png");
+}
+#myDiv{
+    border: thick solid darkslategray;
+    text-align: center;
+}
+table, th, td{
+    border: 2px solid darkslategray;
+    width: 1000px;
+}
+h2{
+    color:darkblue;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color:darkslategray ;
+   
+}
+.rectangle{
+    
+    width: 400px;
+    height:100px;
+    border: solid darkslategray;
+}
+h3{
+    color:darkblue;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color:darkslategray ;
+}
+img{
+    height: 180px;
+    width:180px;
+    
+}
